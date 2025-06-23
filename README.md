@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thurazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://64.media.tumblr.com/64897b9e782444c29a8403953721746d/9a224abfe692b56c-93/s500x750/84aa10727549324b10789ecb77e2a0b24900204c.gifv"  />
 
 ###
@@ -26,5 +33,11 @@
 
 <div align="left">
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thurazz/thurazz/output/snake.svg" alt="Snake animation" />
 
 ###
